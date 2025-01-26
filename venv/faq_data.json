@@ -1,0 +1,113 @@
+{
+  "faqs": [
+    {
+      "question": "Is Alabama A&M University accredited?",
+      "answer": "Yes, Alabama Agricultural and Mechanical University is accredited by the Southern Association of Colleges and Schools' Commission on Colleges to award baccalaureate, master's, educational specialist, and doctoral degrees. Contact the Commission on Colleges at 1866 Southern Lane, Decatur, Georgia 30033-4097 or call (404) 679-4500 for questions about the accreditation of AAMU."
+    },
+    {
+      "question": "How do I apply to AAMU?",
+      "answer": "You can apply to AAMU completely online through our admissions portal. Visit the Admissions website and follow these steps:\n1. Create an account\n2. Fill out the online application\n3. Pay the $20 application fee\n4. Submit required documents"
+    },
+    {
+      "question": "What are the admission requirements?",
+      "answer": "For first-year students:\n- 2.0 minimum unweighted GPA\n- ACT score of 18 or higher\n- SAT score of 1290 or higher\n- Official high school transcript\n- Letter of recommendation"
+    },
+    {
+      "question": "What is the application deadline?",
+      "answer": "Application deadlines vary by semester:\nFall Semester: June 15\nSpring Semester: November 1\nSummer Semester: April 1\n\nInternational Students:\nFall: May 15\nSpring: October 1\nSummer: March 1"
+    },
+    {
+      "question": "How do I apply for financial aid?",
+      "answer": "To apply for financial aid at AAMU:\n1. Complete the FAFSA (School code: 001002)\n2. Submit required verification documents\n3. Check your AAMU email for updates\n4. Accept/decline aid offers through your student portal"
+    },
+    {
+      "question": "What scholarships are available?",
+      "answer": "AAMU offers various scholarships including:\n- Academic Merit Scholarships\n- Athletic Scholarships\n- Departmental Scholarships\n- Presidential Scholarships\nVisit the Financial Aid office website for a complete list and application details."
+    },
+    {
+      "question": "What is the tuition cost?",
+      "answer": "Tuition rates vary by residency status and credit hours. For the current academic year:\nIn-state: $365 per credit hour\nOut-of-state: $730 per credit hour\nAdditional fees may apply. Please check the Bursar's office website for detailed information."
+    },
+    {
+      "question": "What housing options are available?",
+      "answer": "AAMU offers several housing options:\n- Traditional residence halls\n- Suite-style apartments\n- Graduate student housing\nAll housing includes WiFi, laundry facilities, and 24/7 security."
+    },
+    {
+      "question": "What student activities are offered?",
+      "answer": "AAMU has a vibrant campus life including:\n- Over 100 student organizations\n- Greek life\n- Intramural sports\n- Cultural events\n- Student Government Association\n- Academic clubs"
+    },
+    {
+      "question": "Tell me about campus facilities",
+      "answer": "AAMU's campus features:\n- Modern academic buildings\n- State-of-the-art research facilities\n- Student Center\n- Wellness Center\n- Library\n- Computer labs\n- Dining facilities\n- Athletic complexes"
+    },
+    {
+      "question": "What materials are needed to complete my AAMU admissions application?",
+      "answer": "The following must be submitted for consideration of acceptance to Alabama A&M University:\n1. Admissions Application\n2. Application Fee\n3. Official Transcript, and a Letter of Recommendation from either principal or guidance counselor."
+    },
+    {
+      "question": "What is the application fee?",
+      "answer": "The application fee for admission is $20.00."
+    },
+    {
+      "question": "What are the admission requirements for transfer students?",
+      "answer": "Upon completing your application for admission to the University, an official copy of your transcript from each institution you have attended must be forwarded to the Office of Admissions. For additional requirements, please contact the Office of Admissions."
+    },
+    {
+      "question": "What are the admission requirements for transient students?",
+      "answer": "Students must submit a letter of permission or good standing from the institution in attendance. Transient students must make application for admission each semester in attendance. All applicants for admission are required to have a cumulative unweighted grade point average (GPA) of a 2.0 and an American College Test (ACT) score of at least an 18 or Scholastic Aptitude Test (SAT) score of at least a 1290. For additional information, please contact the Office of Admissions."
+    },
+    {
+      "question": "What is the readmit process for students?",
+      "answer": "Students who have been previously enrolled at the University but have been absent for a period of one semester or more must complete the application procedures for Re-admit students."
+    },
+    {
+      "question": "How do I pay my enrollment fees online?",
+      "answer": "You can pay your AAMU Enrollment Fee online through the PayPal Payment System. Please have your Alabama A&M University Student ID number ready when you pay your Enrollment Fee. Your Student ID number is also required to process your Enrollment Fee payment."
+    },
+    {
+      "question": "Where can I access information on University deadlines and withdrawal information?",
+      "answer": "Access Alabama A&M's University Academic Calendar for important deadlines and specific dates of importance."
+    },
+    {
+      "question": "How do I purchase books?",
+      "answer": "AAMU distance education students can take advantage of the university's online bookstore. Students have the ability to place orders online for home delivery or store pickup."
+    },
+    {
+      "question": "How do I register for courses?",
+      "answer": "You can register for classes by visiting the University web page and logging into your banner account, or by completing the steps below:\n1. Visit the Alabama A&M University Website\n2. Click on the myAAMU link in the upper right\n3. Click Banner Self-Service Log-In\n4. Enter your User ID and Pin\n5. Click Login\n6. Click on the Student Tab\n7. Click Registration\n8. Click Add or Drop Classes\n\nFor additional assistance, contact the Registrar's Office."
+    },
+    {
+      "question": "What if I have questions or need technical support?",
+      "answer": "For specific questions about your course, you should contact your instructor. For general questions regarding your academic plan of study, you should contact your academic advisor. For technical questions and other student services, call the Alabama A&M University Online Academic IT Support at 256-372-8849 or send an email to AAMU Online."
+    },
+    {
+      "question": "How do I contact Financial Aid if I am enrolled in an Online Degree Program?",
+      "answer": "Students enrolled in an online degree program can email financial aid at onlinefinaid@aamu.edu."
+    }
+  ],
+  "topic_suggestions": {
+    "admission": {
+      "How do I apply to AAMU?": "You can apply to AAMU completely online through our admissions portal. Visit the Admissions website and follow these steps:\n1. Create an account\n2. Fill out the online application\n3. Pay the $20 application fee\n4. Submit required documents",
+
+      "What are the admission requirements?": "For first-year students:\n- 2.0 minimum unweighted GPA\n- ACT score of 18 or higher\n- SAT score of 1290 or higher\n- Official high school transcript\n- Letter of recommendation",
+
+      "What is the application deadline?": "Application deadlines vary by semester:\nFall Semester: June 15\nSpring Semester: November 1\nSummer Semester: April 1\n\nInternational Students:\nFall: May 15\nSpring: October 1\nSummer: March 1"
+    },
+
+    "financial": {
+      "How do I apply for financial aid?": "To apply for financial aid at AAMU:\n1. Complete the FAFSA (School code: 001002)\n2. Submit required verification documents\n3. Check your AAMU email for updates\n4. Accept/decline aid offers through your student portal",
+
+      "What scholarships are available?": "AAMU offers various scholarships including:\n- Academic Merit Scholarships\n- Athletic Scholarships\n- Departmental Scholarships\n- Presidential Scholarships\nVisit the Financial Aid office website for a complete list and application details.",
+
+      "What is the tuition cost?": "Tuition rates vary by residency status and credit hours. For the current academic year:\nIn-state: $365 per credit hour\nOut-of-state: $730 per credit hour\nAdditional fees may apply. Please check the Bursar's office website for detailed information."
+    },
+
+    "campus": {
+      "What housing options are available?": "AAMU offers several housing options:\n- Traditional residence halls\n- Suite-style apartments\n- Graduate student housing\nAll housing includes WiFi, laundry facilities, and 24/7 security.",
+
+      "What student activities are offered?": "AAMU has a vibrant campus life including:\n- Over 100 student organizations\n- Greek life\n- Intramural sports\n- Cultural events\n- Student Government Association\n- Academic clubs",
+
+      "Tell me about campus facilities": "AAMU's campus features:\n- Modern academic buildings\n- State-of-the-art research facilities\n- Student Center\n- Wellness Center\n- Library\n- Computer labs\n- Dining facilities\n- Athletic complexes"
+    }
+  }
+}
