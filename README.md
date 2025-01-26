@@ -1,12 +1,11 @@
-I'll create comprehensive documentation for the AAMU FAQ Chatbot project.
-
-```markdown:faq_chatbot/venv/README.md
 # AAMU FAQ Chatbot Documentation
 
 ## Overview
+
 The AAMU FAQ Chatbot is an intelligent conversational agent designed to assist users with questions about Alabama A&M University. It combines semantic search, natural language processing, and a user-friendly interface to provide accurate, context-aware responses.
 
 ## Features
+
 - 🤖 Natural language understanding
 - 🔍 Semantic search for FAQ matching
 - 💭 Context-aware responses with conversation memory
@@ -16,6 +15,7 @@ The AAMU FAQ Chatbot is an intelligent conversational agent designed to assist u
 - 🔄 Clear chat functionality
 
 ## Technical Stack
+
 - **Python 3.7+**
 - **Streamlit**: Web interface framework
 - **LangChain**: Language model chain operations
@@ -24,8 +24,8 @@ The AAMU FAQ Chatbot is an intelligent conversational agent designed to assist u
 - **OpenAI GPT-4**: Advanced language model
 
 ## Project Structure
-```
 
+```
 faq_chatbot/
 ├── venv/ # Virtual environment
 ├── data/
@@ -33,16 +33,16 @@ faq_chatbot/
 ├── chatbot.py # Main application
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-
-````
+```
 
 ## Installation
 
 1. Clone the repository:
+
 ```bash
-git clone [repository-url]
+git clone https://github.com/Dfortune014/aamu-faq
 cd faq_chatbot
-````
+```
 
 2. Create and activate virtual environment:
 
